@@ -1,0 +1,3 @@
+[submodule "syntax/start/vim-jedi"]
+	path = syntax/start/vim-jedi
+	url = git@github.com:davidhalter/jedi-vim.git
