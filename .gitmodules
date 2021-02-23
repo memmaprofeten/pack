@@ -1,3 +1,9 @@
 [submodule "syntax/start/vim-jedi"]
 	path = syntax/start/vim-jedi
 	url = git@github.com:davidhalter/jedi-vim.git
+[submodule "syntax/start/python-syntax"]
+	path = syntax/start/python-syntax
+	url = git@github.com:vim-python/python-syntax.git
+[submodule "syntax/start/papercolor-theme"]
+	path = syntax/start/papercolor-theme
+	url = git@github.com:NLKNguyen/papercolor-theme.git
