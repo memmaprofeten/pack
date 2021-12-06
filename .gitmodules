@@ -7,3 +7,6 @@
 [submodule "syntax/start/papercolor-theme"]
 	path = syntax/start/papercolor-theme
 	url = git@github.com:NLKNguyen/papercolor-theme.git
+[submodule "syntax/start/haskell-vim"]
+	path = syntax/start/haskell-vim
+	url = git@github.com:neovimhaskell/haskell-vim.git
